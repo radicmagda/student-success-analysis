@@ -60,7 +60,7 @@ The dataset includes answers to survey questions with grades in mathematics and 
 
 <table>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blank_square.svg/2048px-Blank_square.svg.png" width="100px;" alt=""/><br /><sub><b>Magda Radić</b></sub><br /></td>
+    <td align="center"><a href="https://github.com/radicmagda"><img src="https://avatars.githubusercontent.com/u/77732311" width="100px;" alt=""/><br /><sub><b>Magda Radić</b></sub><br /></td>
     <td align="center"><a href="https://github.com/tprhat"><img src="https://avatars.githubusercontent.com/u/33128908?v=4" width="100px;" alt=""/><br /><sub><b>Tomislav Prhat</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/matejciglenecki"><img src="https://avatars.githubusercontent.com/u/12819849?v=4" width="100px;" alt=""/><br /><sub><b>Matej Ciglenečki</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/pdragojevic"><img src="https://avatars.githubusercontent.com/u/76600733" width="100px;" alt=""/><br /><sub><b>Petar Dragojević</b></sub></a><br /></td>
